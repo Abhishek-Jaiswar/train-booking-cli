@@ -10,5 +10,3 @@ struct User {
     string adharCard;
     vector<Train> trains;
 };
-
-// https://github.com/Abhishek-Jaiswar/train-booking-cli.git
